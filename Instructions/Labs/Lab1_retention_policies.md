@@ -106,7 +106,9 @@ Here, you will create retention policies specifically for Teams channels and cha
 
    Ensure all other options are disabled.
 
-1. For the **Teams chats** location, select the **Edit** link under **All users**, then add two users (for example, Adele Vance, Alex Wilber).
+1. For the **Teams chats** location, select the **Edit** link under **All users**, then add two users.
+
+    >**Note**: Only licensed users can be selected (for example, Adele Vance, Alex Wilber). Adding unlicensed users will result in an error.
 
     >![Screenshot showing the Add users option for Teams chats.](./Media/add-users-retention-policy.png)
 
