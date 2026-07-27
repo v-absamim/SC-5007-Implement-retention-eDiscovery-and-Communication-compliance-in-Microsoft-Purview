@@ -31,7 +31,7 @@ Your task is to create and manage retention policies that meet the required crit
 
 Here, you will create a retention policy that applies to the entire organization.
 
-1. In Microsoft Edge, navigate to the **Microsoft Purview** portal at `https://purview.microsoft.com`, and log in using a Global Administrator account provided by your authorized lab hoster (ALH).
+1. In Microsoft Edge, navigate to the **Microsoft Purview** portal at `https://purview.microsoft.com`, and log in using the Global Administrator account provided for this lab.
 
 1. A message about the new Microsoft Purview portal will appear on the screen. Select the option to agree with the terms of data flow disclosure and the privacy statement, then select **Get started**.
 
