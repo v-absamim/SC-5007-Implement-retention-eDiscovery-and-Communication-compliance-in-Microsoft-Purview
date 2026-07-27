@@ -107,7 +107,7 @@ In this task, you will build a communication compliance policy from scratch to m
    - Exchange
    - Teams
 
-   Ensure all other locations aren't selected.
+   Ensure all other locations are not selected.
 
 1. Select **Next**.
 
