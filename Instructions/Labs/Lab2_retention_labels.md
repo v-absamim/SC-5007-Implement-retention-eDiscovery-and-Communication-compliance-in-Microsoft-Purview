@@ -29,7 +29,7 @@ Your task is to create and manage retention labels that meet the required criter
 
 In this task, you will create retention labels that can be assigned to documents and emails.
 
-1. In Microsoft Edge, navigate to the **Microsoft Purview** portal at `https://purview.microsoft.com`, and log in using a Global Administrator account provided by your authorized lab hoster (ALH).
+1. In Microsoft Edge, navigate to the **Microsoft Purview** portal at `https://purview.microsoft.com`, and log in using the Global Administrator account provided for this lab.
 
 1. Select **Solutions** > **Records Management**.
 
