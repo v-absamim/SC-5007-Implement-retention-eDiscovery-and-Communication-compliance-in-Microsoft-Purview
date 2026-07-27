@@ -37,7 +37,7 @@ Your task is to create and manage eDiscovery cases that meet the investigation c
 
 To export files, you need specific permissions due to the direct access this option grants to user files.
 
-1. In Microsoft Edge, navigate to the **Microsoft Purview** portal at `https://purview.microsoft.com`, and log in using a Global Administrator account provided by your authorized lab hoster (ALH).
+1. In Microsoft Edge, navigate to the **Microsoft Purview** portal at `https://purview.microsoft.com`, and log in using the Global Administrator account provided for this lab.
 
 1. Select the **Settings** from the left navigation pane.
 
