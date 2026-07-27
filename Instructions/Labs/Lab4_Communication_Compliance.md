@@ -27,7 +27,7 @@ Tenants must not be converted to a paid subscription. Tenants obtained as a part
 
 In this task, you will create a policy using a predefined template to quickly address common compliance scenarios.
 
-1. In Microsoft Edge, navigate to the **Microsoft Purview** portal at `https://purview.microsoft.com`, and log in using a Global Administrator account provided by your authorized lab hoster (ALH).
+1. In Microsoft Edge, navigate to the **Microsoft Purview** portal at `https://purview.microsoft.com`, and log in using the Global Administrator account provided for this lab.
 
 1. Select **Solutions** > **Communication Compliance**.
 
