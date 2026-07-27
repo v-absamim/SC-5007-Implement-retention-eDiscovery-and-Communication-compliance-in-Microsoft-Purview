@@ -176,7 +176,7 @@ In this task, you filter review set items and apply tags to organize them for th
 
    - Select **Run query**.
 
-1. To save this search query select **Save**. In the Filter name field, enter `Payment data docs`, then select **Save**.
+1. To save this search query, select **Save**. In the Filter name field, enter `Payment data docs`, then select **Save**.
 
 1. From the command bar, select **Tag files**.
 
