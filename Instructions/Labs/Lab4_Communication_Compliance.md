@@ -61,7 +61,7 @@ Here you will modify a policy template to tailor it to specific organizational n
 
 1. On the **Detect communications for inappropriate images** fly-out page on the right, select **Customize policy** at the bottom of the fly-out page.
 
-1. On the **Name and describe your policy** select **Next**.
+1. On the **Name and describe your policy** page, select **Next**.
 
 1. On the **Choose users and reviewers** page, enter the user that will be reviewing communication compliance alerts in the **Reviewers** field, then select **Next**.
 
