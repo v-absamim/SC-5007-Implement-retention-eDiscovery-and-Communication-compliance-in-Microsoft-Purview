@@ -35,9 +35,9 @@ In this task, you will create retention labels that can be assigned to documents
 
 1. In the left navigation pane, select **File plan**.
 
-1. On the **File plan** page select **+ Create a label**.
+1. On the **File plan** page, select **+ Create a label**.
 
-1. On the **Name your retention label** page input:
+1. On the **Name your retention label** page, enter:
 
     - **Name**: `Financial Records`
     - **Description for users**: `Assign this label to financial documents to ensure they are retained for the required period.`
@@ -56,9 +56,9 @@ In this task, you will create retention labels that can be assigned to documents
 
 1. Select **Next**.
 
-1. On the **Choose what happens during the retention period** page select **Retain items even if users delete** then select **Next**.
+1. On the **Choose what happens during the retention period** page, select **Retain items even if users delete** then select **Next**.
 
-1. On the **Choose what happens after the retention period** page select **Deactivate retention settings** then select **Next**.
+1. On the **Choose what happens after the retention period** page, select **Deactivate retention settings** then select **Next**.
 
 1. On the **Review and finish** page, select **Create label**.
 
@@ -66,7 +66,7 @@ In this task, you will create retention labels that can be assigned to documents
 
 1. Back on the **File plan** page, select **+ Create a label** to create another retention label.
 
-1. On the **Name your retention label** page enter:
+1. On the **Name your retention label** page, enter:
 
     - **Name**: `HR Records`
     - **Description for users**: `This label is auto-applied to HR records with a retention period of five years.`
@@ -85,13 +85,13 @@ In this task, you will create retention labels that can be assigned to documents
 
 1. Select **Next**.
 
-1. On the **Choose what happens during the retention period** select **Retain items even if users delete**, then select **Next**.
+1. On the **Choose what happens during the retention period**, select **Retain items even if users delete**, then select **Next**.
 
 1. On the **Choose what happens after the retention period** page, select **Deactivate retention settings**, then select **Next**.
 
-1. On the **Review and finish** page select **Create label**.
+1. On the **Review and finish** page, select **Create label**.
 
-1. On the **Your retention label is created** page select **Do Nothing** then select **Done**.
+1. On the **Your retention label is created** page, select **Do Nothing** then select **Done**.
 
 You have successfully created retention labels for financial records with a seven-year retention period and HR records with a five-year retention period.
 
@@ -109,11 +109,11 @@ Following Task 1, you will now publish the retention labels so they are availabl
 
 1. Select **Next**.
 
-1. On the **Policy Scope** page select **Next**.
+1. On the **Policy Scope** page, select **Next**.
 
-1. On the **Choose the type of retention policy to create** page select **Static** then select **Next**.
+1. On the **Choose the type of retention policy to create** page, select **Static** then select **Next**.
 
-1. On the **Choose where to publish labels** page select **Let me choose specific locations** and enable:
+1. On the **Choose where to publish labels** page, select **Let me choose specific locations** and enable:
 
    - Exchange mailboxes
    - SharePoint classic and communication sites
@@ -128,9 +128,9 @@ Following Task 1, you will now publish the retention labels so they are availabl
 
 1. Select **Next**.
 
-1. On the **Finish** page select **Submit**.
+1. On the **Finish** page, select **Submit**.
 
-1. On the **Your retention label was published** page select **Done**.
+1. On the **Your retention label was published** page, select **Done**.
 
 You have successfully published the retention label for financial records.
 
